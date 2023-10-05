@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.login-col-1 {
+  background-color: #383535;
+}
+
+.register-welcome-font {
+  font-family: "Roboto Condensed", sans-serif;
+  font-family: "Rubik", sans-serif;
+  padding: 0 7rem;
+}
+
+.login-welcome-font {
+  font-family: "Roboto Condensed", sans-serif;
+  font-family: "Rubik", sans-serif;
+}
+
+.footer-bg {
+  background-color: #383535;
+  color: white;
+}
+
+.footer-pos {
+  margin-top: auto;
+  width: 100vw;
+}
+
+.search-area {
+  padding: 3rem;
+}
+
+.home-bg {
+  background-image: url("./Images/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.fixed {
+  width: 200px;
+}
+
+.form-text {
+  font-size: x-large;
+  color: white;
+}
+
+.home-heading {
+  color: white;
+}
+
+.search-cont {
+  width: 800px;
+  color: white;
+}
+
+.search-result {
+  width: 640px;
+}
+
+.search-item {
+  width: 640px;
+  background-color: white;
+  border-radius: 3px;
+  color: black;
+}
+
+.link-default-off {
+  text-decoration: none;
+  color: white;
+}
+
+.bg-btn {
+  background: none;
+  border: none;
+  color: white;
+  font-size: x-large;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar .right-buttons {
+  display: flex;
+  align-items: center;
+}
+
+.navbar .right-buttons button {
+  margin-left: 10px;
+}
+
+.ticket-head {
+  color: white;
+}
+
+.ticket-bg {
+  background-color: white;
+  border-radius: 30px;
+}
+
+.busname {
+  font-weight: bold;
+}
+
+.my-bg {
+  background: #f28725;
+  background: -webkit-linear-gradient(0deg, #f28725 0%, #482634 100%);
+  background: linear-gradient(0deg, #f28725 0%, #482634 100%);
+}

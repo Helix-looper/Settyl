@@ -1,0 +1,31 @@
+{
+    "buses": [
+      {
+        "id": "1",
+        "name": "Bus A",
+        "source": "Route 1",
+        "destination": "Route 2",
+        "seats": 10,
+        "availableSeats": 10,
+        "fare": 10
+      },
+      {
+        "id": "2",
+        "name": "Bus B",
+        "source": "Route 2",
+        "destination": "Route 3",
+        "seats": 10,
+        "availableSeats": 10,
+        "fare": 12
+      },
+      {
+        "id": "3",
+        "name": "Bus C",
+        "source": "Route 3",
+        "destination": "Route 1",
+        "seats": 10,
+        "availableSeats": 10,
+        "fare": 8
+      }
+    ]
+  }
